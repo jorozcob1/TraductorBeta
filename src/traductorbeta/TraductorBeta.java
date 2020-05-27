@@ -21,7 +21,7 @@ public class TraductorBeta {
         // TODO code application logic here
         interfaz inte=new interfaz();
         inte.show();
-    
+    //
     }
     
 }
